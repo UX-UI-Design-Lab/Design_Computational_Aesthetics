@@ -1,6 +1,5 @@
 # Design_Computational_Aesthetics
-
-##### research notes about machine learning and design research
+## research notes about machine learning and design research
 
 - Goal: To create a prototype to demonstrate the possible design research idea/theory
 - Method/Tools: Tensorflow/Python
@@ -21,3 +20,4 @@ https://jupyter.org/
 https://ipython.org/
 
 
+###### collaborators: sookie & heekyung
