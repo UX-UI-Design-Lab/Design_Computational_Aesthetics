@@ -13,11 +13,21 @@ Tsing, A. L., Bubandt, N., Gan, E., & Swanson, H. A. (Eds.). (2017). Arts of liv
 Walker, R. (2019). The Art of Noticing: 131 Ways to Spark Creativity, Find Inspiration, and Discover Joy in the Everyday. 
 http://robwalker.net/noticing/
 
+Barad, K. (2003). Posthumanist performativity: Toward an understanding of how matter comes to matter. Signs: Journal of women in culture and society, 28(3), 801-831. https://www.uio.no/studier/emner/sv/sai/SOSANT4400/v14/pensumliste/barad_posthumanist-performativity.pdf
+
+
 https://www.tensorflow.org/datasets
 
 https://jupyter.org/
 
 https://ipython.org/
+
+
+Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems, Géron, Aurélien
+
+Deep Learning (Adaptive Computation and Machine Learning series), Goodfellow, Ian
+
+Deep Learning with Python, Chollet, François
 
 
 ###### Collaborators: sookie & heekyung (2021 summer & fall)
